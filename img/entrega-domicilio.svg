@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" role="img" aria-label="Entrega a domicilio en scooter">
+  <ellipse cx="150" cy="180" rx="125" ry="8" fill="#3b2418" opacity=".1"/>
+  <!-- caja de reparto -->
+  <rect x="34" y="62" width="76" height="58" rx="7" fill="#b5312a"/>
+  <rect x="34" y="62" width="76" height="12" rx="6" fill="#8c2019"/>
+  <path d="M60 86 L60 108 M60 86 L82 94 L60 102" stroke="#fff6e5" stroke-width="3.5" fill="#fff6e5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- asiento y tablero -->
+  <path d="M60 124 Q60 110 76 110 L128 110 L128 124Z" fill="#3b2418"/>
+  <rect x="100" y="132" width="96" height="11" rx="5.5" fill="#1f6f4a"/>
+  <!-- cuerpo frontal y manubrio -->
+  <path d="M196 138 L208 72" stroke="#3b2418" stroke-width="9" stroke-linecap="round"/>
+  <path d="M194 68 L226 68" stroke="#3b2418" stroke-width="8" stroke-linecap="round"/>
+  <path d="M208 72 L224 52 Q240 54 242 70 L224 72Z" fill="#f2b134"/>
+  <!-- ruedas -->
+  <circle cx="72" cy="152" r="26" fill="#3b2418"/>
+  <circle cx="72" cy="152" r="11" fill="#fff6e5"/>
+  <circle cx="72" cy="152" r="4" fill="#3b2418"/>
+  <circle cx="228" cy="152" r="26" fill="#3b2418"/>
+  <circle cx="228" cy="152" r="11" fill="#fff6e5"/>
+  <circle cx="228" cy="152" r="4" fill="#3b2418"/>
+  <!-- lineas de velocidad -->
+  <path d="M6 96 H24 M0 112 H20 M10 128 H26" stroke="#f2b134" stroke-width="4" stroke-linecap="round"/>
+</svg>

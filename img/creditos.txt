@@ -1,0 +1,110 @@
+CREDITOS DE LAS FOTOS (Wikimedia Commons, licencias libres)
+Las ilustraciones .svg de entrega son dibujos propios de este proyecto.
+
+tacos.jpg
+  Archivo: Tacos 2.jpg
+  Autor: Popo le Chien
+  Licencia: CC BY-SA 3.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Tacos_2.jpg
+
+mole.jpg
+  Archivo: Feria Gastronomica de la Enchilada 48.jpg
+  Autor: Fer.goiba
+  Licencia: CC BY-SA 4.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Feria_Gastronomica_de_la_Enchilada_48.jpg
+
+chiles-nogada.jpg
+  Archivo: Chiles en nogada La Ópera CDMX 01.jpg
+  Autor: Correogsk
+  Licencia: CC BY-SA 4.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Chiles_en_nogada_La_%C3%93pera_CDMX_01.jpg
+
+pozole.jpg
+  Archivo: Pozole, Mazatlán, 13 de marzo de 2023 02.jpg
+  Autor: El Nuevo Doge
+  Licencia: CC0
+  Fuente: https://commons.wikimedia.org/wiki/File:Pozole,_Mazatl%C3%A1n,_13_de_marzo_de_2023_02.jpg
+
+tamales.jpg
+  Archivo: Tamales Mexicanos sweet corn tamales 04.jpg
+  Autor: Usernet123u
+  Licencia: CC BY-SA 4.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Tamales_Mexicanos_sweet_corn_tamales_04.jpg
+
+guacamole.jpg
+  Archivo: Los Molcajetes Bar & Grill - February 2025 - Sarah Stierch 02.jpg
+  Autor: Missvain
+  Licencia: CC0
+  Fuente: https://commons.wikimedia.org/wiki/File:Los_Molcajetes_Bar_%26_Grill_-_February_2025_-_Sarah_Stierch_02.jpg
+
+enchiladas.jpg
+  Archivo: Festival de la Enchilada 59.jpg
+  Autor: Lameirasb
+  Licencia: CC BY-SA 4.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Festival_de_la_Enchilada_59.jpg
+
+chilaquiles.jpg
+  Archivo: Chilaquiles at the Grand Cantina, Windsor, Ontario, 2025-09-01 04.jpg
+  Autor: Chris Woodrich
+  Licencia: CC BY-SA 4.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Chilaquiles_at_the_Grand_Cantina,_Windsor,_Ontario,_2025-09-01_04.jpg
+
+cemita.jpg
+  Archivo: Cemita poblana.jpg
+  Autor: Wotancito
+  Licencia: CC BY-SA 3.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Cemita_poblana.jpg
+
+quesadilla.jpg
+  Archivo: At Long Island 2023 267.jpg
+  Autor: Photograph by Mike Peel (www.mikepeel.net).
+  Licencia: CC BY-SA 4.0
+  Fuente: https://commons.wikimedia.org/wiki/File:At_Long_Island_2023_267.jpg
+
+elote.jpg
+  Archivo: Mexican Corn Cob.jpg
+  Autor: Alexisromeromar
+  Licencia: CC BY-SA 4.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Mexican_Corn_Cob.jpg
+
+churros.jpg
+  Archivo: Churros, Mexico City (26984977061).jpg
+  Autor: Sharon Hahn Darlin
+  Licencia: CC BY 2.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Churros,_Mexico_City_(26984977061).jpg
+
+aguas.jpg
+  Archivo: Aguas frescas Juchitán de Zaragoza (1).jpg
+  Autor: Gzzz
+  Licencia: CC BY-SA 4.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Aguas_frescas_Juchit%C3%A1n_de_Zaragoza_(1).jpg
+
+mariachi.jpg
+  Archivo: Mariachi Buda Texas Weiner Dog Races 2023.jpg
+  Autor: Larry D. Moore
+  Licencia: CC BY 4.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Mariachi_Buda_Texas_Weiner_Dog_Races_2023.jpg
+
+parian.jpg
+  Archivo: En el Mercado de El Parián, los artesanos y turistas son custodiados por San Francisco de Asís..jpg
+  Autor: Jesús Zavala
+  Licencia: CC BY-SA 4.0
+  Fuente: https://commons.wikimedia.org/wiki/File:En_el_Mercado_de_El_Pari%C3%A1n,_los_artesanos_y_turistas_son_custodiados_por_San_Francisco_de_As%C3%ADs..jpg
+
+chiles-mercado.jpg
+  Archivo: Mercado merced chiles.jpg
+  Autor: https://www.flickr.com/photos/scaredykat/
+  Licencia: CC BY 2.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Mercado_merced_chiles.jpg
+
+icono.png (icono de la pestana)
+  Archivo: Emoji u1f32e.svg
+  Autor: Google
+  Licencia: Apache License 2.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Emoji_u1f32e.svg
+
+logo.jpg
+  Archivo: Cute kitten.jpg
+  Autor: Rosendahl
+  Licencia: Public domain
+  Fuente: https://commons.wikimedia.org/wiki/File:Cute_kitten.jpg

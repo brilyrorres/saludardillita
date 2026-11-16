@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" role="img" aria-label="Pedido entregado">
+  <ellipse cx="150" cy="182" rx="105" ry="8" fill="#3b2418" opacity=".1"/>
+  <!-- bolsa -->
+  <path d="M96 76 H204 L214 176 H86Z" fill="#f2b134"/>
+  <path d="M96 76 H204 L206 92 H94Z" fill="#d9941a"/>
+  <path d="M122 76 V62 Q122 38 150 38 Q178 38 178 62 V76" stroke="#3b2418" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <!-- palomita -->
+  <circle cx="150" cy="130" r="30" fill="#1f6f4a"/>
+  <path d="M135 130 L146 142 L167 118" stroke="#fff" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- confeti -->
+  <rect x="48" y="52" width="12" height="12" rx="2" fill="#b5312a" transform="rotate(20 54 58)"/>
+  <rect x="238" y="60" width="12" height="12" rx="2" fill="#1f6f4a" transform="rotate(-25 244 66)"/>
+  <circle cx="64" cy="112" r="6" fill="#1c6e8c"/>
+  <circle cx="240" cy="116" r="6" fill="#b5312a"/>
+  <rect x="70" y="150" width="10" height="10" rx="2" fill="#f2b134" transform="rotate(35 75 155)"/>
+  <rect x="226" y="148" width="10" height="10" rx="2" fill="#1c6e8c" transform="rotate(-15 231 153)"/>
+</svg>

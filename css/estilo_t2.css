@@ -1,0 +1,11 @@
+
+table{
+background-color:#ffffff;
+width:60%;
+margin:150px auto;
+}
+
+
+tr:nth-child(even){
+background-color:#ddd;
+}

@@ -1,0 +1,16 @@
+header h4{
+font-style: italic;
+margin: 5px;
+}
+
+td{
+font-size: 1.1em;
+}
+
+img{
+border: 2px solid #ccc;
+}
+
+a{
+color: #ce1126;
+}

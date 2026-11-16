@@ -1,0 +1,39 @@
+body{
+font-family: Arial;
+background-color: #fff8e7;
+}
+
+header{
+background-color: #006847;
+color: white;
+padding: 10px;
+text-align: center;
+overflow: auto;
+}
+
+header h1{
+margin: 10px;
+color: white;
+}
+
+h1{
+text-align: center;
+color: #ce1126;
+}
+
+h3{
+text-align: center;
+}
+
+section{
+padding: 10px;
+text-align: center;
+}
+
+aside{
+background-color: #ce1126;
+color: white;
+text-align: center;
+padding: 10px;
+clear: both;
+}

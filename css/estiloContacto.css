@@ -1,0 +1,31 @@
+body{
+background-color: #ddedea ;
+font-family: Arial;
+box-sizing: border-box;
+}
+.centrar_content{
+text-align:center;
+}
+.btn{
+border-radius: 3px;
+display: inline-block;
+padding:20px 15px;
+box-shadow:0 1px 0 rgba(0,0,0,0.5);
+color:#fff;
+background-color:#CD5C5C;
+}
+.btn:hover{
+background-color: violet;
+}
+.btn:active{
+background-color:#2ff62a;
+}
+form{
+background-color:#fff;
+color:#999;
+padding:20px;
+margin: 0 auto;
+width: 300px;
+border-radius: 10px;
+font-size:0.8em;
+}

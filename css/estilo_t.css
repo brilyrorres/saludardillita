@@ -1,0 +1,18 @@
+
+table{
+background-color:#ffffff;
+width:60%;
+margin:150px auto;
+}
+
+thead{
+background-color:violet;
+color:#fff;
+}
+tr:nth-child(even){
+background-color:#ddd;
+}
+tr:hover td{
+background-color:violet;
+color:#fff;
+}
